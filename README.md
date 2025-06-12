@@ -2,7 +2,7 @@
 
 A Discord selfbot that monitors a user's Spotify activity and saves unique track URLs to a file.
 
-**Note:** Due to me being lazy, the song playing *immediately* after joining a Listen Along party won't be saved. This is an easy fix - PRs are welcome! ❤️  
+**Note:** Due to me being lazy, the song playing *immediately* on joining a Listen Along party won't be saved. This is an easy fix - PRs are welcome! ❤️  
 
 This is the 'legendary' script used to create [this playlist](https://open.spotify.com/playlist/1PGjUP3FVlsRwEc4leLhrd?si=3c02b963f7cc44b2).
 
