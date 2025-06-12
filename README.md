@@ -22,7 +22,10 @@ To convert links from `list.txt` into a Spotify playlist:
    
 ## preview
 
-// soon lol
+![prevx](https://github.com/user-attachments/assets/f1dde943-ef68-49a7-864c-7113dbb00a56)
+
+![vEdzGOj](https://github.com/user-attachments/assets/1103529f-d9eb-498a-8887-a6485fd83613)
+
 
 
 ## Features ✨
